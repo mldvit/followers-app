@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./home.component.css']
 })
 export class HomeComponent implements OnInit {
-  title = "mldv Angular App nuova nuova prova";
+  title = "mldv Angular App nuova nuova prova git";
   
   constructor() { }
 
